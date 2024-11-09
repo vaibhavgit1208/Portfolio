@@ -1,5 +1,3 @@
-# Portfolio
-"Hello,World" :)
 # 💫 About Me:
 Seeking a challenging and rewarding position where I can apply my relevant skills to contribute effectively to the success of the team and organization while continuously developing my professional growth. 
 
